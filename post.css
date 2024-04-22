@@ -1,8 +1,4 @@
-body{
 
-
-    background-color: #F9EEDD;
-}
 .container1{
     width: 98%; /* Adjust width as needed */
     height: auto; /* Adjust height as needed */
@@ -11,7 +7,11 @@ body{
     background-color: #CDD8C4;
     border-radius: 8px; 
     text-align: center;
+    
+    
+    
      
 }
+
 
 
